@@ -1,0 +1,15 @@
+D:\Dev\dotnet\projetos\sistema celular POO\bin\Debug\net6.0\DesafioPOO.exe
+D:\Dev\dotnet\projetos\sistema celular POO\bin\Debug\net6.0\DesafioPOO.deps.json
+D:\Dev\dotnet\projetos\sistema celular POO\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+D:\Dev\dotnet\projetos\sistema celular POO\bin\Debug\net6.0\DesafioPOO.dll
+D:\Dev\dotnet\projetos\sistema celular POO\bin\Debug\net6.0\DesafioPOO.pdb
+D:\Dev\dotnet\projetos\sistema celular POO\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+D:\Dev\dotnet\projetos\sistema celular POO\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\dotnet\projetos\sistema celular POO\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+D:\Dev\dotnet\projetos\sistema celular POO\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+D:\Dev\dotnet\projetos\sistema celular POO\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+D:\Dev\dotnet\projetos\sistema celular POO\obj\Debug\net6.0\DesafioPOO.dll
+D:\Dev\dotnet\projetos\sistema celular POO\obj\Debug\net6.0\refint\DesafioPOO.dll
+D:\Dev\dotnet\projetos\sistema celular POO\obj\Debug\net6.0\DesafioPOO.pdb
+D:\Dev\dotnet\projetos\sistema celular POO\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+D:\Dev\dotnet\projetos\sistema celular POO\obj\Debug\net6.0\ref\DesafioPOO.dll
